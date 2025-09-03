@@ -1,3 +1,8 @@
+![Hello](Hello.gif)
+<h1 align="center">Shikhar Mishra </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shikhar-7&label=Profile%20views&color=0e75b6&style=flat" alt="Shikhar-7" /> </p>
+
+
 # 💫 About Me:
 🌱 Currently learning: Advanced data structures, algorithms, and problem-solving techniques.<br>🤝 Looking to collaborate on: Full-stack web development and open-source projects.<br>💛 Looking for help with: Scaling Django apps and advanced React optimizations.<br>💬 Ask me about: Competitive programming, C++,Python, and web dev.<br>⚡ Fun fact: Problem-solving feels more fun than just learning.
 
