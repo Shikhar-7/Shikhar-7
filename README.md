@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shikharmishra07) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikharmishra682@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=white)](https://leetcode.com/u/shikharmishra682/)
-[![Codolio](https://img.shields.io/badge/Codolio-12100E?logo=codersrank&logoColor=white)](https://codolio.com/profile/Shikhar)
+[![Codolio](https://img.shields.io/badge/Codolio-12100E?logo=codersrank&logoColor=white)](https://codolio.com/profile/%20Shikhar)
 
 
 
