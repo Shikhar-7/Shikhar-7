@@ -1,13 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shikhar-7&label=Profile%20views&color=0e75b6&style=flat" alt="Shikhar-7" /> </p>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1500&pause=600&color=FFD700&background=00000000&center=true&vCenter=true&multiline=true&width=1400&height=260&lines=Hello+there!;My+name+is+Shikhar+Mishra%2C;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
 
-
 <!--![Hello](Hello.gif)
-<h1 align="center">Shikhar Mishra </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shikhar-7&label=Profile%20views&color=0e75b6&style=flat" alt="Shikhar-7" /> </p>
--->
+<h1 align="center">Shikhar Mishra </h1>-->
+
 
 # 💫 About Me:
 🌱 Currently learning: Advanced data structures, algorithms, and problem-solving techniques.<br>🤝 Looking to collaborate on: Full-stack web development and open-source projects.<br>💛 Looking for help with: Scaling Django apps and advanced React optimizations.<br>💬 Ask me about: Competitive programming, C++,Python, and web dev.<br>⚡ Fun fact: Problem-solving feels more fun than just learning.
