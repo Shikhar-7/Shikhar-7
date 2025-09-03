@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Shikhar+Mishra%2C;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
+
 ![Hello](Hello.gif)
 <h1 align="center">Shikhar Mishra </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shikhar-7&label=Profile%20views&color=0e75b6&style=flat" alt="Shikhar-7" /> </p>
